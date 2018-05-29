@@ -4,3 +4,6 @@ a.out
 # directories
 /tmp
 
+# extensions
+*.swp
+
