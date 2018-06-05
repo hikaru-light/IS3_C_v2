@@ -1,8 +1,10 @@
 # files
 a.out
+master.zip
 
 # directories
 /tmp
+/master
 
 # extensions
 *.swp

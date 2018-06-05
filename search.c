@@ -59,7 +59,7 @@ void a_search(struct cell *a_hstab, char *x) {
 	}
 }
 
-void show(struct cell *hstab){
+void show(struct cell *hstab) {
 	if(hstab == NULL) {
 		printf("\n");
 		return;
@@ -148,4 +148,3 @@ int main(int argc , char **argv) {
 			printf("\n");
 	}
 }
-
